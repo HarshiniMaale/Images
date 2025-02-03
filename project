@@ -3,4 +3,6 @@ Project Title: Student Course Registration Website
 Features: 
 1. Welcome page to enter login credentials
 2. Search bar to enter course code/ name
-3. 
+3. Filters - filter by slot, sort by clashes, sort by seat availability
+4. Split screen for timetable display
+5. Auto refresh for updated seat values 
