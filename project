@@ -7,3 +7,5 @@ Features:
 4. Split screen for timetable display
 5. Auto refresh for updated seat values 
 6. Dark mode and light mode
+7. Captcha for login page
+8. Registration number validity check for login, else error message
